@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string-array name="tabs">
+        <item>PC</item>
+        <item>Pantallas</item>
+        <item>Teclados</item>
+        <item>Ratones</item>
+        <item>Micros</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
